@@ -6,6 +6,8 @@ public class repositoryTest {
 		
 		System.out.println("my first step");
 		
+		System.out.println("my second step");
+		
 	}
 
 }
